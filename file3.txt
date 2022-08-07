@@ -4,3 +4,5 @@ Fanta
 Pepsi
 Sprite
 Bitter Lemon
+Mango juice
+Orange Juice
